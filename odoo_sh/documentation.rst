@@ -9,3 +9,4 @@ Odoo.sh Documentation
 
    overview
    getting_started
+   advanced
